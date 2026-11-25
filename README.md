@@ -7,7 +7,7 @@ Bài tập CTDLGT - 211131
 | Buổi | Nội dung | Thư mục | Trạng thái |
 |---|---|---|---|
 |01|Đệ Quy|Buoi01_DeQuy|Đã nộp|
-|02|Danh Sách|Buoi02_DanhSach|Chưa nộp|
+|02|Danh Sách|Buoi02_DanhSach|Đã nộp|
 |03|Stack và Queue|Buoi03_Stack_Queue|đã nộp|
 |04|Cây|Buoi_04_Cay|Chưa nộp|
 |05|Sắp Xếp|Buoi05_SapXep|Chưa nộp|
